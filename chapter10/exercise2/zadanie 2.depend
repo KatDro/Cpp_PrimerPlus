@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558787177 source:d:\koderka\szkola programowania\rozdzial 10\zadanie 2\main.cpp
+	<iostream>
+	"person.h"
+
+1558787714 source:d:\koderka\szkola programowania\rozdzial 10\zadanie 2\person.cpp
+	<iostream>
+	<cstring>
+	"person.h"
+
+1558786702 d:\koderka\szkola programowania\rozdzial 10\zadanie 2\person.h
+	<iostream>
+	<string>
+
