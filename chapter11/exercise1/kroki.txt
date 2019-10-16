@@ -1,0 +1,8 @@
+Dystans do przejscia: 22, dlugosc kroku: 8
+0: (x, y) = (0, 0)
+1: (x, y) = (7.70078, 2.16748)
+2: (x, y) = (14.0457, 7.04002)
+3: (x, y) = (18.5452, 13.6548)
+Po 3 krokach osoba osiagnela polozenie: (x, y) = (18.5452, 13.6548),
+czyli (mag, ang) = (23.0299, 36.3642)
+Srednia dlugosc kroku pozornego: 7.67663
