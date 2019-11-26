@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad6\zad6\main.cpp(16,22): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad6.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad6\Debug\zad6.exe

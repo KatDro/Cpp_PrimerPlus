@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,23): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,23): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,29): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,29): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,35): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,35): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,41): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,41): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,48): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,48): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,54): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,54): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,60): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,60): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,67): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,67): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,73): warning C4838:  conversion from 'double' to 'long' requires a narrowing conversion
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\zad5\main.cpp(13,73): warning C4244:  'initializing': conversion from 'double' to 'long', possible loss of data
+  zad5.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad5\Debug\zad5.exe

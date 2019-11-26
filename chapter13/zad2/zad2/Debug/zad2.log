@@ -1,0 +1,4 @@
+﻿  classic.cpp
+  C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 13\zad2\zad2\classic.cpp(81) : warning C4715: 'Classic::operator=': not all control paths return a value
+  C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 13\zad2\zad2\classic.cpp(49) : warning C4715: 'Cd::operator=': not all control paths return a value
+  zad2.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 13\zad2\Debug\zad2.exe

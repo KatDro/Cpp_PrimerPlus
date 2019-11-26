@@ -1,0 +1,3 @@
+Tekst do skopiowania.
+Test 1	test2;
+test3.

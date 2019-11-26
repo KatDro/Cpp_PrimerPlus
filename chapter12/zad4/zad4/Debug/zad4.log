@@ -1,0 +1,5 @@
+﻿  stack.cpp
+  zad4.cpp
+  Generating Code...
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 12\zad4\zad4\zad4.cpp(10,13): warning C4244:  'argument': conversion from 'double' to 'const Item', possible loss of data
+  zad4.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 12\zad4\Debug\zad4.exe

@@ -1,0 +1,3 @@
+﻿  port.cpp
+  C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 13\zad4\zad4\port.cpp(83) : warning C4715: 'VintagePort::operator=': not all control paths return a value
+  zad4.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 13\zad4\Debug\zad4.exe

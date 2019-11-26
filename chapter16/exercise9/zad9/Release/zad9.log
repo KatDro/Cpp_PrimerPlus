@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad9\zad9\main.cpp(11,17): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  13 of 193 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  zad9.vcxproj -> C:\Users\Paweł\Desktop\Kasia\_Szkoła programowania\rozdzial 16\zad9\Release\zad9.exe
