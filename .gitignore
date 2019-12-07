@@ -1,2 +1,6 @@
 *.depend
 *.layout
+
+obj/
+Debug/
+.vs/
